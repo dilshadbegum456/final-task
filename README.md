@@ -20,8 +20,7 @@
 <br />
 
 ### Demo Screeshots
-
-![Glowing Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+<img width="1332" height="633" alt="glowing screenshot" src="https://github.com/user-attachments/assets/e8f312b9-7786-46de-b3ef-dd910b6578ff" />
 
 ### Prerequisites
 
